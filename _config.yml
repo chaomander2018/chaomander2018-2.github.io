@@ -1,4 +1,4 @@
-name: DopeTrope
-description: DopeTrope template for Jekyll
+name: Chao's second blog
+description: This is a seperate blog with another theme
 paginate: 10
 baseurl: '/DopeTrope-Jekyll-Theme'
